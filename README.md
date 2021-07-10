@@ -11,6 +11,8 @@ Review 142 is Truly Predicted: Positive
 LIME Relational Explanation:'161:0.029526448662763192', '109:0.029526448662763192', '155:0.029526448662763192', '150:0.029526448662763192', '7:8.855816846352782e-31'. Here 161,109,155,150, and 7 are related reviews to 142 and have positive contribution to the prediction. 
 
 LIME Words Explanation: 'cheese:0.029526448662763192','immediately:0.029526448662763192,'definitely:0.029526448662763192'. Here chees,immediately, and definitely are the word explanations
-#Packages need to be installed
+
+
+# Packages need to be installed
 Python=3.6
 Gensim=3.8
