@@ -14,11 +14,14 @@ LIME Words Explanation: 'cheese:0.029526448662763192','immediately:0.02952644866
 # Demo Visualized Output
 # 1. Justification of the Prediction of the review query in terms of graph
 The query review is currectly predicted as either positive or negative and from the relational graph as follows it is clear that, review 32 is truly predicted as negative as its related or connected review nodes either Samehotel or Sameuser relation are also negative reviews. 
+
+
 ![image](https://user-images.githubusercontent.com/25291998/125535746-41460d3a-e8b7-477d-bc5d-f1a75a0c1bbc.png)
 
 # 2. Sameuser Relation
 
 Here, we have the relational graph where the query 32 predicted as negative review connected to a node with respect to Sameuser relation
+
 
 ![image](https://user-images.githubusercontent.com/25291998/125535876-5de9f900-d3f8-48b8-8a2c-069ad4b9ccc0.png)
 
@@ -27,11 +30,14 @@ Here, we have the relational graph where the query 32 predicted as negative revi
 
 Here, we have the relational graph where the query 7 predicted as positive review connected to the nodes with respect to Samehotel relation
 
+
 ![image](https://user-images.githubusercontent.com/25291998/125536221-48b53886-e064-4849-af1b-999008cfc5f0.png)
 
 # 4. Word Explanations
 
 Here are the words explanations by LIME for the review 0 to be truly predicted as positive review:
+
+
 ![image](https://user-images.githubusercontent.com/25291998/125536420-f9deabff-dd9c-4496-ba99-20202e85033f.png)
 
 
