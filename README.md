@@ -32,8 +32,7 @@ Here, we have the relational graph where the query 7 predicted as positive revie
 # 4. Word Explanations
 
 Here are the words explanations by LIME for the review 0 to be truly predicted as positive review:
-
-![image](https://user-images.githubusercontent.com/25291998/125536350-236ef6f6-7d4a-4dfd-95f6-5468f5264c24.png)
+![image](https://user-images.githubusercontent.com/25291998/125536420-f9deabff-dd9c-4496-ba99-20202e85033f.png)
 
 
 
