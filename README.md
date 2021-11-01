@@ -18,6 +18,9 @@ The query review is currectly predicted as either positive or negative and from 
 
 ![image](https://user-images.githubusercontent.com/25291998/125535746-41460d3a-e8b7-477d-bc5d-f1a75a0c1bbc.png)
 
+![image](https://user-images.githubusercontent.com/25291998/139725491-9aad2e13-bfdc-4132-aedd-321b0fa9eafb.png)
+
+
 # 2. Sameuser Relation
 
 Here, we have the relational graph where the query 32 predicted as negative review connected to a node with respect to Sameuser relation
